@@ -7,3 +7,7 @@ Install the development version from GitHub:
 # install.packages("devtools")
 devtools::install_github("RMCondor/econresearchR")
 ```
+## Usage
+```
+econ_research("YOUR FILE DIRECTORY")
+```
