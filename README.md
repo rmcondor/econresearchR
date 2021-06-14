@@ -11,3 +11,4 @@ devtools::install_github("RMCondor/econresearchR")
 ```
 econ_research("YOUR PROJECT DIRECTORY")
 ```
+## Project Directory
