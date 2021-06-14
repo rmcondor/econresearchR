@@ -9,5 +9,5 @@ devtools::install_github("RMCondor/econresearchR")
 ```
 ## Usage
 ```
-econ_research("YOUR FILE DIRECTORY")
+econ_research("YOUR PROJECT DIRECTORY")
 ```
