@@ -12,4 +12,4 @@ devtools::install_github("RMCondor/econresearchR")
 econ_research("your/project/folder")
 ```
 ## Project Folder
-![Imagen1](https://user-images.githubusercontent.com/57784008/121976778-23fd2a00-cd4a-11eb-8dbf-839b42d3f05f.jpg)
+![econresearchR](https://user-images.githubusercontent.com/57784008/121977184-02507280-cd4b-11eb-910f-066fe0447471.jpg)
