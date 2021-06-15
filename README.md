@@ -4,7 +4,7 @@ An useful R package for organizing files in an econ research. For any suggestion
 # Installation
 Install the development version from GitHub:
 ```
-# install.packages("devtools")
+library(devtools)
 devtools::install_github("RMCondor/econresearchR")
 ```
 ## Usage
