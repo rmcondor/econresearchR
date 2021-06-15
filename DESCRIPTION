@@ -4,7 +4,7 @@ Title: Organizing files in an economic applied research
 Version: 0.1.0
 Author: Ronny M. Condor
 Maintainer: Ronny M. Condor <ronny.condor@unmsm.edu.pe>
-Description: This package create subfolder in your main project folder to organize any phase of you econ research project.
+Description: This package create subfolders to organize any phase of you econ research project.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
