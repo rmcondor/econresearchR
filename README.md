@@ -1,5 +1,5 @@
 # econresearchR
-A useful R package for organizing files in an econ research. For any suggestion you can send a mail to ronny.condor@unmsm.edu.pe.
+A useful R package for organizing files in an economics applied research. For any suggestion you can send a mail to ronny.condor@unmsm.edu.pe.
 
 # Installation
 Install the development version from GitHub:
