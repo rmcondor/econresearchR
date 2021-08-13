@@ -6,7 +6,6 @@ Cite the package: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5136783.sv
 # Installation
 Install the development version from GitHub:
 ```
-library(devtools)
 devtools::install_github("rmcondor/econresearchR")
 ```
 ## Usage
